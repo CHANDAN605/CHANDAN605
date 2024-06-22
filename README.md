@@ -17,7 +17,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/chandan yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan yadav" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chandan yadav" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Black-Logo.wine.svg" alt="Chandan Yadav" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/chandan yadav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" alt="Chandan Yadav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
