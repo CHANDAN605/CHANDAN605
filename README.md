@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Full Stack Developer Chandan Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/akhila2710/TFA_Files/main/8af4febc154ad406079ce04b7e9f70ee.gif" alt="error in loading" witdh="400">
+<img align="center" src="https://raw.githubusercontent.com/akhila2710/TFA_Files/main/8af4febc154ad406079ce04b7e9f70ee.gif" alt="error in loading" witdh="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan605&label=Profile%20views&color=0e75b6&style=flat" alt="chandan605" /> </p>
 
